@@ -16,6 +16,8 @@ import os
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 DIR_VIDEOS = 'E:\\download\\karaoke\\videos'
 # DIR_VIDEOS = 'D:\\songs'
+# test
+# test
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
